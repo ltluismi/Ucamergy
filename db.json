@@ -1,0 +1,7 @@
+{
+    "Asistentes": [
+      { "Nombre": "Luis Miguel Garcia Perez", "DNI": "77177300F", "Telefono": "601396666", "Fecha_nacimiento": "09-02-1998", "Fecha_inscripcion": "20-05-2020"},
+      { "Nombre": "Marta Rendon Salvador", "DNI": "111111111F", "Telefono": "629654365", "Fecha_nacimiento": "18-04-1997", "Fecha_inscripcion": "23-05-2020"},
+      { "Nombre": "Maria Victoria Alba Caravaca", "DNI": "69967088Z", "Telefono": "690050422", "Fecha_nacimiento": "26-07-1995", "Fecha_inscripcion": "21-05-2020"}
+    ]
+  }
